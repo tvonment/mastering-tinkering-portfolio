@@ -1,0 +1,6 @@
+.sections-btns {
+    margin: 25px;
+    display: flex;
+    justify-content: end;
+    gap: 35px;
+}

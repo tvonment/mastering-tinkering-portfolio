@@ -1,0 +1,24 @@
+.introduction-container {
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    gap: 25px;
+}
+
+.introduction {
+    font-size: 41px;
+    font-family: 'Montserrat';
+}
+
+.introduction-hashtags {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    margin-bottom: 45px;
+    gap: 4px;
+}
+
+.introduction-hashtag {
+    font-family: 'Montserrat';
+    color: #15F5BA;
+}

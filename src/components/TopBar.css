@@ -1,0 +1,30 @@
+.top-bar {
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+}
+
+.introduction-image {
+    position: relative;
+    transform: translateX(-100px) translateY(-50px);
+    width: 450px;
+    border-radius: 28px;
+}
+
+.top-bar-right-panel {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 0px;
+}
+
+.top-bar-social-media {
+    display: flex;
+    justify-content: end;
+    gap: 15px;
+}
+
+.top-bar-phone-number {
+    display: flex;
+    justify-content: flex-end;
+}
